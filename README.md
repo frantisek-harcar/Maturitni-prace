@@ -1,9 +1,15 @@
 ## Table of Contents
 - [Instalace](#instalace)
- - [Localhost](#localhost)
+  - [Localhost](#localhost)
  - [FTP](#ftp)
 - [Uživatelská příručka](#uzivatelska-prirucka)
  - [Založení účtu a přihlášení](#zalozeni-uctu-a-prihlaseni)
+## Table of Contents
+- [Installation](#installation)
+  - [Sub Heading](#sub-heading)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 ## Odhlášení
 ## Obchod
 ## Košík
