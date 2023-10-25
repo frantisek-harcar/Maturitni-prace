@@ -13,10 +13,10 @@
 ## Další funkce webu
 
 # Instalace
-======
+
 
 ## Localhost
-------
+
 Pokud byste chtěli aplikaci spustit lokálně na svém počítači (na localhostu), budete potřebovat program, který Vám poskytne MySQL databázi a Apache webový server, doporučuji XAMPP (zapněte MySQL a Apache).
 
 Přiložený soubor sunable.sql, který obsahuje strukturu tabulek bez dat, importujte ho do své MySQL databáze.
