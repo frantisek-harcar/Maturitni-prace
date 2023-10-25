@@ -113,7 +113,7 @@ Pokud je přihlášený uživatel administrátor (nastavuje se v databázi 1, ne
 *Obrázek 5 – Tlačítko administrace*
 
 
-Zde je zatím funkční pouze tlačítko pro administraci obchodu. Po kliknutí se uživatel dostane na administrátorskou verzi obchodu, která obsahuje tlačítko pro manipulaci s produkty, přidání nového produktu a pod filtry přibude tlačítko na navrácení do administrace. Filtry fungují i v administraci. 
+Zde je zatím funkční pouze tlačítko pro administraci obchodu. Po kliknutí se uživatel dostane na administrátorskou verzi obchodu, která obsahuje tlačítka pro manipulaci s produkty, přidání nového produktu a pod filtry přibude tlačítko na navrácení do administrace. Filtry fungují i v administraci. 
 
 ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/4bcbb6fe-3b14-4fae-86d6-455530e382e1)
 
