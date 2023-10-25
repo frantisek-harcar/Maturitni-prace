@@ -25,9 +25,13 @@ Přiložený soubor sunable.sql, který obsahuje strukturu tabulek bez dat, impo
 Dále nahrajte přiložené soubory do složky htdocs programu XAMPP (nebo jiné složky, která plní stejný účel, pokud používáte jiný program), díky které můžete projekt zpřístupnit na stránce localhost.
 
 Upravte soubor dblogin.php (nachází se ve složce includes), který obsahuje údaje k připojení do databáze (zadejte vlastní hodnoty pro proměnné:
+
  $servername = „localhost“,
+ 
  $dbusername = „root“ (nebo jméno účtu přistupujícího k databázi),
+ 
  $dbpwd = „“ (nebo heslo k uživatelskému účtu),
+ 
  $db = „název vaší databáze“).
 
 Po těchto krocích by měla být aplikace funkční.
