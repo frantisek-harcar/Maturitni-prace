@@ -1,4 +1,7 @@
-1. #[Instalace](#-instalace)
+**Here is a link in a list:**
+
+1. Text [Link](https://github.com/) text
+[Instalace](#-instalace)
 [Localhost](#-localhost)
 [FTP](#-ftp)
 # Uživatelská příručka
