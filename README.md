@@ -7,8 +7,10 @@ Odhlášení
 Pomocí tlačítka Logout, které se po přihlášení zobrazí namísto Login.
 Obchod
 Do obchodu se lze dostat pomocí tlačítka v navigaci „Shop“. Na stránce obchodu se zobrazí nabízené položky, které si uživatel může přidat do košíku pomocí tlačítka na kartě. Každý produkt lze přidat jen jednou a množství se upravuje později v košíku.
- 
-Obrázek 1 – Stránka obchodu
+
+ ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/df84819b-4f2b-4226-b260-97b30a5549d6)
+*Obrázek 1 – Stránka obchodu*
+
 Dále se na stránce nachází filtry zboží. V horní části jsou filtry, které umožní třídit zboží podle toho, které jsou nejprodávanější, nebo nejnovější. V levé části obchodu se nachází navigace, která umožňuje filtrovat podle typu produktu. 
 Na každý produkt lze kliknout a zobrazit si jeho detail.
  
