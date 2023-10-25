@@ -1,9 +1,8 @@
-**Here is a link in a list:**
+**Obsah**
 
-1. Text [Link](https://github.com/) text
-[Instalace](#-instalace)
-[Localhost](#-localhost)
-[FTP](#-ftp)
+1. [Instalace](#-instalace)
+1.1. [Localhost](#-localhost)
+1.2. [FTP](#-ftp)
 # Uživatelská příručka
 ## Založení účtu a přihlášení
 ## Odhlášení
