@@ -13,11 +13,10 @@
   - [Odstranění produktu](#odstraneni-produktu)
   - [Další funkce webu](#dalsi-funkce-webu)
 
+
 # Instalace
 
 ## Localhost
-
---------
 
 Pokud byste chtěli aplikaci spustit lokálně na svém počítači (na localhostu), budete potřebovat program, který Vám poskytne MySQL databázi a Apache webový server, doporučuji XAMPP (zapněte MySQL a Apache).
 
