@@ -1,8 +1,9 @@
-**Obsah**
-
-1. [Instalace](#-instalace)
-1.1. [Localhost](#-localhost)
-1.2. [FTP](#-ftp)
+## Table of Contents
+- [Instalace](#-instalace)
+- [Localhost](#-localhost)
+- [FTP](#-ftp)
+- [Uživatelská příručka](#-uzivatelska-prirucka)
+- [Založení účtu a přihlášení](#-zalozeni-uctu-a-prihlaseni)
 # Uživatelská příručka
 ## Založení účtu a přihlášení
 ## Odhlášení
