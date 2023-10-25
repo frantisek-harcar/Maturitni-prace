@@ -16,6 +16,7 @@
 # Instalace
 
 ## Localhost
+--------
 
 Pokud byste chtěli aplikaci spustit lokálně na svém počítači (na localhostu), budete potřebovat program, který Vám poskytne MySQL databázi a Apache webový server, doporučuji XAMPP (zapněte MySQL a Apache).
 
@@ -52,7 +53,7 @@ Po vyplnění uživatelského jména, které může obsahovat pouze znaky a-z, A
 Pomocí tlačítka Logout, které se po přihlášení zobrazí namísto Login.
 
 ## Obchod
-------
+
 Do obchodu se lze dostat pomocí tlačítka v navigaci „Shop“. Na stránce obchodu se zobrazí nabízené položky, které si uživatel může přidat do košíku pomocí tlačítka na kartě. Každý produkt lze přidat jen jednou a množství se upravuje později v košíku.
 
  ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/df84819b-4f2b-4226-b260-97b30a5549d6)
