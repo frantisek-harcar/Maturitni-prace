@@ -65,9 +65,8 @@ Pomocí tlačítka Logout, které se po přihlášení zobrazí namísto Login.
 ## Obchod
 
 Do obchodu se lze dostat pomocí tlačítka v navigaci „Shop“. Na stránce obchodu se zobrazí nabízené položky, které si uživatel může přidat do košíku pomocí tlačítka na kartě. Každý produkt lze přidat jen jednou a množství se upravuje později v košíku.
-![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/04db6b79-5a75-4523-ad26-c3dab9102151)
 
-![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/df84819b-4f2b-4226-b260-97b30a5549d6)
+![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/28979c9a-140a-4245-9fd7-741227eb72e1)
  
 *Obrázek 1 – Stránka obchodu*
 
@@ -76,7 +75,7 @@ Dále se na stránce nachází filtry zboží. V horní části jsou filtry, kte
 
 Na každý produkt lze kliknout a zobrazit si jeho detail.
 
- ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/714e27c0-3079-4de9-b71c-5eac1a7bec97)
+![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/1c5eff63-7958-40e2-8bb1-464a35e83fbf)
  
 *Obrázek 2 – Detail produktu*
 
@@ -85,8 +84,8 @@ Na každý produkt lze kliknout a zobrazit si jeho detail.
 
 Tlačítko košíku se nachází v navigaci, vedle něj je číslo, které indikuje počet položek v košíku. Pokud je košík prázdný, na stránce se zobrazí pouze text, když se bude v košíku nacházet nějaká položka, zobrazí se tlačítka pro vyprázdnění košíku a pro objednávku.
 
- ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/3f7bb21f-bd65-472c-9819-e1638d67c16a)
- 
+![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/07d3de10-9cc6-48ec-83b3-4458b47260fe)
+
 *Obrázek 3 – Košík s položkami*
 
 
@@ -100,7 +99,7 @@ Po kliknutí na tlačítko Objednat se uživatel dostane na stránku, kde se nac
 
 Po potvrzení objednávky přijde na zadaný email potvrzení objednávky.
 
- ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/1a0ef1c7-e595-41a5-98a7-1470824d0164)
+![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/1fd01866-2a62-4272-8efb-6127624a8697)
  
 *Obrázek 4 – Formulář objednávky*
 
@@ -109,21 +108,22 @@ Po potvrzení objednávky přijde na zadaný email potvrzení objednávky.
 
 Pokud je přihlášený uživatel administrátor (nastavuje se v databázi 1, nebo 0) zobrazí se mu v navigaci tlačítko Administrace, které ho přesměruje na stejnojmennou stránku.
 
- ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/030dea92-f535-4f1b-956d-bf810d0989c9)
+![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/a98f7f6d-ca5a-4898-9c92-0697c0177706)
  
 *Obrázek 5 – Tlačítko administrace*
 
 
 Zde je zatím funkční pouze tlačítko pro administraci obchodu. Po kliknutí se uživatel dostane na administrátorskou verzi obchodu, která obsahuje tlačítko pro manipulaci s produkty, přidání nového produktu a pod filtry přibude tlačítko na navrácení do administrace. Filtry fungují i v administraci. 
 
-![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/4a0a3f74-2b9c-4dfa-aac4-6661917ca1bf)
+![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/4bcbb6fe-3b14-4fae-86d6-455530e382e1)
+
 *Obrázek 6 – Stránka administrace obchodu*
 
 ## Přidání produktu
 
 Zelené tlačítko pro přidání položky zobrazí novou stránku s formulářem pro přidání nového produktu. Po vyplnění je položka přidána do databáze a vypsána v obchodě. Je nutné, aby se název souboru v políčku „cesta k obrázku“ opravdu shodoval s názvem souboru i koncovkou!
 
-![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/97b70318-2a2f-4ff8-a4b7-775afdc9639d)
+![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/af77fa3f-f66b-4275-9349-7f35faf148ef)
 
 *Obrázek 7 – Přidání položky*
 
@@ -135,7 +135,7 @@ Pomocí tlačítka Zpět do obchodu je možno vrátit se zpět.
 
 Žluté tlačítko zobrazí podobnou stránku jako zelené, ale hodnoty zde jsou už vyplněné podle toho, jaký produkt je upravován. Pro úpravu stačí jen změnit hodnotu v poli a potvrdit formulář.
 
- ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/4199a071-15bd-4f9b-a637-36c0aebf51ff)
+![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/a76285b6-228f-4eae-b0c5-e29c6357ec28)
  
 *Obrázek 8 – Úprava položky*
 
@@ -148,14 +148,14 @@ Po zmáčknutí červeného tlačítka je produkt smazán z obchodu, košíku i 
 
 Na hlavní stránce je ještě možné zobrazit si stránku O nás, na které se nachází výpis lidí, kteří jsou spojeni se Sunable, jejich kontakt a odkaz na streamovací službu Spotify.  
 
-![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/886132ee-18e1-4475-a290-5d63724cd372)
+![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/8e302283-e579-4b4a-9246-623172e1ead0)
 
 *Obrázek 9 – Stránka O nás*
 
 
 Dále je možné zobrazit základní verzi galerie tlačítkem Fotky. V galerii je možné filtrovat fotky podle kategorie, do které je každá fotka zařazena při vkládání do databáze.
 
- ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/6ae28666-7ad2-40ee-a2a5-7fbdbe08a8b7)
+![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/0e4ffcfd-688f-4488-aa81-8e9bfcb22bb6)
  
 *Obrázek 10 – Galerie*
 
