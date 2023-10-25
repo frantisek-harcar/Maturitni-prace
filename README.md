@@ -1,4 +1,16 @@
-
+# Instalace
+## Localhost
+## FTP
+# Uživatelská příručka
+## Založení účtu a přihlášení
+## Odhlášení
+## Obchod
+## Košík
+## Objednávka
+## Administrace
+## Přidání produktu
+## Odstranění produktu
+## Další funkce webu
 
 # Instalace
 ======
