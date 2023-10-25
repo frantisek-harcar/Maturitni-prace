@@ -20,11 +20,13 @@
 
 Pokud byste chtěli aplikaci spustit lokálně na svém počítači (na localhostu), budete potřebovat program, který Vám poskytne MySQL databázi a Apache webový server, doporučuji XAMPP (zapněte MySQL a Apache).
 
-Přiložený soubor sunable.sql, který obsahuje strukturu tabulek bez dat, importujte ho do své MySQL databáze.
+Přiložený soubor sunable.sql, který obsahuje strukturu tabulek bez dat, importujte do své MySQL databáze.
 
 Dále nahrajte přiložené soubory do složky htdocs programu XAMPP (nebo jiné složky, která plní stejný účel, pokud používáte jiný program), díky které můžete projekt zpřístupnit na stránce localhost.
 
-Upravte soubor dblogin.php (nachází se ve složce includes), který obsahuje údaje k připojení do databáze. Zadejte vlastní hodnoty pro proměnné:
+Upravte soubor dblogin.php (nachází se ve složce includes), který obsahuje údaje k připojení do databáze.
+
+Zadejte vlastní hodnoty pro proměnné:
 
  $servername = „localhost“,
  
