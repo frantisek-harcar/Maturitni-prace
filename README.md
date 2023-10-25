@@ -1,4 +1,4 @@
-1.#[Instalace](#-instalace)
+1. #[Instalace](#-instalace)
 [Localhost](#-localhost)
 [FTP](#-ftp)
 # Uživatelská příručka
