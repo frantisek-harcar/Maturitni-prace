@@ -78,6 +78,7 @@ Zde je zatím funkční pouze tlačítko pro administraci obchodu. Po kliknutí 
 Zelené tlačítko pro přidání položky zobrazí novou stránku s formulářem pro přidání nového produktu. Po vyplnění je položka přidána do databáze a vypsána v obchodě. Je nutné, aby se název souboru v políčku „cesta k obrázku“ opravdu shodoval s názvem souboru i koncovkou!
 
 ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/97b70318-2a2f-4ff8-a4b7-775afdc9639d)
+
 *Obrázek 7 – Přidání položky*
 
 Je možné i nahrát obrázek na server, který by měl nejlépe být průhledný. Jsou povoleny soubory s koncovkou .jpg, .jpeg, .png a velikostí maximálně 1 Megabyte.
@@ -86,6 +87,7 @@ Pomocí tlačítka Zpět do obchodu je možno vrátit se zpět.
 Žluté tlačítko zobrazí podobnou stránku jako zelené, ale hodnoty zde jsou už vyplněné podle toho, jaký produkt je upravován. Pro úpravu stačí jen změnit hodnotu v poli a potvrdit formulář.
 
  ![image](https://github.com/frantisek-harcar/Maturitni-prace/assets/56251309/4199a071-15bd-4f9b-a637-36c0aebf51ff)
+ 
 *Obrázek 8 – Úprava položky*
 
 ## Odstranění produktu
