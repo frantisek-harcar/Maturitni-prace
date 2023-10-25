@@ -1,26 +1,25 @@
 # Instalace
 
 ## Localhost
-Pokud byste chtěli aplikaci spustit lokálně na svém počítači (na localhostu), budete 
-potřebovat program, který Vám poskytne MySQL databázi a Apache webový server, 
-doporučuji XAMPP (zapněte MySQL a Apache).
-Přiložený soubor sunable.sql, který obsahuje strukturu tabulek bez dat, importujte ho do 
-své MySQL databáze.
-Dále nahrajte přiložené soubory do složky htdocs programu XAMPP (nebo jiné složky, 
-která plní stejný účel, pokud používáte jiný program), díky které můžete projekt zpřístupnit 
-na stránce localhost.
-Upravte soubor dblogin.php (nachází se ve složce includes), který obsahuje údaje 
-k připojení do databáze (zadejte vlastní hodnoty pro proměnné $servername = „localhost“, 
-$dbusername = „root“ (nebo jméno účtu přistupujícího k databázi), $dbpwd = „“ (nebo 
-heslo k uživatelskému účtu), $db = „název vaší databáze“)
+Pokud byste chtěli aplikaci spustit lokálně na svém počítači (na localhostu), budete potřebovat program, který Vám poskytne MySQL databázi a Apache webový server, doporučuji XAMPP (zapněte MySQL a Apache).
+
+Přiložený soubor sunable.sql, který obsahuje strukturu tabulek bez dat, importujte ho do své MySQL databáze.
+
+Dále nahrajte přiložené soubory do složky htdocs programu XAMPP (nebo jiné složky, která plní stejný účel, pokud používáte jiný program), díky které můžete projekt zpřístupnit na stránce localhost.
+
+Upravte soubor dblogin.php (nachází se ve složce includes), který obsahuje údaje k připojení do databáze (zadejte vlastní hodnoty pro proměnné $servername = „localhost“, $dbusername = „root“ (nebo jméno účtu přistupujícího k databázi), $dbpwd = „“ (nebo heslo k uživatelskému účtu), $db = „název vaší databáze“).
+
 Po těchto krocích by měla být aplikace funkční.
 
 ## FTP
-Pokud chcete nahrát aplikaci na server, je potřeba mít na něm verzi PHP 7.x a musí 
-podporovat MySQL databázi.
+Pokud chcete nahrát aplikaci na server, je potřeba mít na něm verzi PHP 7.x a musí podporovat MySQL databázi.
+
 Importujte soubor sunable.sql do databáze, nahraje se struktura tabulek bez dat.
+
 Nahrajte zdrojové soubory na svého FTP klienta.
+
 Upravte soubor pro připojení k databázi dblogin.php (popsán výše).
+
 Po těchto krocích by měla být aplikace funkční.
 
 # Uživatelská příručka
