@@ -1,9 +1,9 @@
 ## Table of Contents
 - [Instalace](#instalace)
-- [Localhost](#-localhost)
-- [FTP](#-ftp)
-- [Uživatelská příručka](#-uzivatelska-prirucka)
-- [Založení účtu a přihlášení](#-zalozeni-uctu-a-prihlaseni)
+ - [Localhost](#localhost)
+ - [FTP](#ftp)
+- [Uživatelská příručka](#uzivatelska-prirucka)
+ - [Založení účtu a přihlášení](#zalozeni-uctu-a-prihlaseni)
 ## Odhlášení
 ## Obchod
 ## Košík
