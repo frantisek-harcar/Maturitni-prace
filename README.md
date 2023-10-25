@@ -1,5 +1,5 @@
 ## Table of Contents
-- [Instalace](#-instalace)
+- [Instalace](#instalace)
 - [Localhost](#-localhost)
 - [FTP](#-ftp)
 - [Uživatelská příručka](#-uzivatelska-prirucka)
@@ -14,7 +14,6 @@
 ## Další funkce webu
 
 # Instalace
-
 
 ## Localhost
 
