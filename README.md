@@ -1,6 +1,6 @@
-[Instalace](#instalace)
-[Localhost](#localhost)
-[FTP](#ftp)
+1.#[Instalace](#-instalace)
+[Localhost](#-localhost)
+[FTP](#-ftp)
 # Uživatelská příručka
 ## Založení účtu a přihlášení
 ## Odhlášení
@@ -12,10 +12,10 @@
 ## Odstranění produktu
 ## Další funkce webu
 
-#Instalace
+# Instalace
 
 
-##Localhost
+## Localhost
 
 Pokud byste chtěli aplikaci spustit lokálně na svém počítači (na localhostu), budete potřebovat program, který Vám poskytne MySQL databázi a Apache webový server, doporučuji XAMPP (zapněte MySQL a Apache).
 
