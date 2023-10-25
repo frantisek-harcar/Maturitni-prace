@@ -4,8 +4,6 @@
 - [FTP](#-ftp)
 - [Uživatelská příručka](#-uzivatelska-prirucka)
 - [Založení účtu a přihlášení](#-zalozeni-uctu-a-prihlaseni)
-# Uživatelská příručka
-## Založení účtu a přihlášení
 ## Odhlášení
 ## Obchod
 ## Košík
