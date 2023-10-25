@@ -1,17 +1,17 @@
 # Obsah
 - [Instalace](#instalace)
   - [Localhost](#localhost)
- - [FTP](#ftp)
+  - [FTP](#ftp)
 - [Uživatelská příručka](#uzivatelska-prirucka)
- - [Založení účtu a přihlášení](#zalozeni-uctu-a-prihlaseni)
- - [Odhlášení](#odhlaseni)
- - [Obchod](#obchod)
- - [Košík](#kosik)
- - [Objednávka](#objednavka)
- - [Administrace](#administrace)
- - [Přídání produktu](#pridani-produktu)
- - [Odstranění produktu](#odstraneni-produktu)
- - [Další funkce webu](#dalsi-funkce-webu)
+  - [Založení účtu a přihlášení](#zalozeni-uctu-a-prihlaseni)
+  - [Odhlášení](#odhlaseni)
+  - [Obchod](#obchod)
+  - [Košík](#kosik)
+  - [Objednávka](#objednavka)
+  - [Administrace](#administrace)
+  - [Přídání produktu](#pridani-produktu)
+  - [Odstranění produktu](#odstraneni-produktu)
+  - [Další funkce webu](#dalsi-funkce-webu)
 
 # Instalace
 
